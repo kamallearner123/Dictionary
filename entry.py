@@ -5,7 +5,7 @@ import re
 import datetime
 import json
 
-names = list(filter(lambda x:not x.startswith("."), list(os.listdir())))
+names = list(filter(lambda x:not x.startswith(".") and not x.endswith(".py"), list(os.listdir())))
 names.append("Exit")
 while True:
     print("Enter name to enter words:")
@@ -24,8 +24,11 @@ while True:
         meaning = input("Enter Meaning:")
         d[word] = meaning
 
+    bck = open("bck/"+names[index-1]+"_"+str(datetime.date.today()), "a+")
     fd.write(json.dumps(d))
+    bck.write(json.dumps(d))
     fd.close()
+    bck.close()
     
 
 print("Thank you!!!")

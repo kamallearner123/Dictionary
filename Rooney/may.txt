@@ -1,7 +1,0 @@
-hedge: rows of bushes
-ditch: water canals in the field
-clamber: climb
-brambles: blackberry bushes
-trap: homeless
-
-
