@@ -17,7 +17,7 @@ while True:
     print("Entering for %s", names[index-1])
     
     fname = names[index-1]+"/"+str(datetime.date.today())
-    fd = open(fname,"a+")
+    fd = open(fname,"w")
     d = dict()
     for i in range(5):
         word = input("Enter word:")
