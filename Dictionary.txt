@@ -1,0 +1,1195 @@
+
+Word: Accustom = adjust
+{'Verb': ['make psychologically or physically used (to something']}
+
+
+
+Word: Accustom = adjust, adapt
+{'Verb': ['make psychologically or physically used (to something']}
+
+
+
+Word: Ache = continous paining
+{'Noun': ['a dull persistent (usually moderately intense'], 'Verb': ['feel physical pain', 'have a desire for something or someone who is not present', 'be the source of pain']}
+
+
+
+Word: Admire = to respect someone
+{'Verb': ['feel admiration for', 'look at with admiration']}
+
+
+
+Word: Adorned = to add something decorative to a person or thing
+{'Verb': ['make more attractive by adding ornament, colour, etc.', 'be beautiful to look at', 'furnish with power or authority; of kings or emperors'], 'Adjective': ['provided with something intended to increase its beauty or distinction']}
+
+
+
+Word: Afford = having enough money
+{'Verb': ['be able to spare or give up', 'be the cause or source of', 'have the financial means to do something or buy something', 'afford access to']}
+
+
+
+Word: Agent = a person who acts of behalf of a person or a group
+{'Noun': ['an active and efficient cause; capable of producing a certain effect', 'a representative who acts on behalf of other persons or organizations', 'a substance that exerts some force or effect', 'a businessman who buys or sells for another in exchange for a commission', 'any agent or representative of a federal agency or bureau', 'the semantic role of the animate entity that instigates or causes the happening denoted by the verb in the clause']}
+
+
+
+Word: Agony = mental suffering
+{'Noun': ['intense feelings of suffering; acute mental or physical pain', 'a state of acute pain']}
+
+
+
+Word: Alighted = got down
+{'Verb': ['to come to rest, settle', 'come down']}
+
+
+
+Word: Allege = claim or assert that someone has done illegal
+{'Verb': ['report or maintain']}
+
+
+
+Word: Amber = orange color
+{'Noun': ['a deep yellow color', 'a hard yellowish to brownish translucent fossil resin; used for jewelry'], 'Adjective': ['of a medium to dark brownish yellow color']}
+
+
+
+Word: Ambles = to walk in a slow or relaxed way
+{'Noun': ['a leisurely walk (usually in some public place'], 'Verb': ['walk leisurely']}
+
+
+
+Word: Ample = enough or more than enough
+{'Adjective': ['more than enough in size or scope or capacity', 'affording an abundant supply', 'fairly large in size']}
+
+
+
+Word: Annoy = make little angry
+{'Verb': ['cause annoyance in; disturb, especially by minor irritations']}
+
+
+
+Word: Anonymous = of unknown name
+{'Adjective': ['having no known name or identity or known source', 'not known or lacking marked individuality']}
+
+
+
+Word: Anticipated = expected or predicted
+{'Verb': ['regard something as probable or likely', 'act in advance of; deal with ahead of time', 'realize beforehand', 'make a prediction about; tell in advance', 'be excited or anxious about', 'be a forerunner of or occur earlier than'], 'Adjective': ['expected hopefully']}
+
+
+
+Word: Anuria = when a person unable to passes an sufficient urine
+{'Noun': ['inability to urinate']}
+
+
+
+Word: Anxiety = a feeling or state of unease or concerned
+{'Noun': ['(psychiatry', 'a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined']}
+
+
+
+Word: Anxious = feeling or showing worry
+{'Adjective': ['eagerly desirous', 'causing or fraught with or showing anxiety']}
+
+
+
+Word: Archeologist = a scientist who studies human history by digging up human remains and artifacts
+{'Noun': ['an anthropologist who studies prehistoric people and their culture']}
+
+
+
+Word: Arid = having little or no rain
+{'Adjective': ['lacking sufficient water or rainfall', 'lacking vitality or spirit; lifeless']}
+
+
+
+Word: Aroma = pleasant smell
+{'Noun': ['any property detected by the olfactory system', 'a distinctive odor that is pleasant']}
+
+
+
+Word: Associated = related
+{'Verb': ['make a logical or causal connection', 'keep company with; hang out with', 'bring or come into association or action']}
+
+
+
+Word: Asteroids = irregular shaped rocks between mars and jupiter
+{'Noun': ['any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter']}
+
+
+
+Word: Astonish = surprize greatly
+{'Verb': ['affect with wonder']}
+
+
+
+Word: Attacked = tried to hurt
+{'Verb': ['launch an attack or assault on; begin hostilities or start warfare with', 'attack in speech or writing', 'take the initiative and go on the offensive', 'attack someone physically or emotionally', "set to work upon; turn one's energies vigorously to a task", 'begin to injure']}
+
+
+
+Word: Autopsy = examination of body or its organs
+{'Noun': ['an examination and dissection of a dead body to determine cause of death or the changes produced by disease'], 'Verb': ['perform an autopsy on a dead body; do a post-mortem']}
+
+
+
+Word: Awareness = knowing a situation or a fact
+{'Noun': ['having knowledge of', 'state of elementary or undifferentiated consciousness']}
+
+
+
+Word: Azure = light blue
+{'Noun': ['a light shade of blue'], 'Verb': ['color azure'], 'Adjective': ['of a deep somewhat purplish blue color similar to that of a clear October sky']}
+
+
+
+Word: Baggy = loose and hanging in folds
+{'Adjective': ['not fitting closely; hanging loosely']}
+
+
+
+Word: Bare = not clothed nor covered
+{'Verb': ['lay bare', 'make public', 'lay bare'], 'Adjective': ['completely unclothed', 'lacking in magnitude or quantity', 'not having a protective covering', 'lacking its natural or customary covering', 'just barely adequate or within a lower limit', 'apart from anything else; without additions or modifications', 'lacking a surface finish such as paint', 'providing no shelter or sustenance', 'having everything extraneous removed including contents', 'lacking embellishment or ornamentation']}
+
+
+
+Word: Barren = place does not produce any vegetation
+{'Noun': ['an uninhabited wilderness that is worthless for cultivation'], 'Adjective': ['providing no shelter or sustenance', 'not bearing offspring', 'completely wanting or lacking']}
+
+
+
+Word: Barter system = to exchange goods for other things rather than for money
+None
+
+
+
+Word: Battle = a fight between two countries using weapons like swords
+{'Noun': ['a hostile meeting of opposing military forces in the course of a war', 'an energetic attempt to achieve something', 'an open clash between two opposing groups (or individuals'], 'Verb': ['battle or contend against in or as if in a battle']}
+
+
+
+Word: Bay = an area boardering a sea
+{'Noun': ['an indentation of a shoreline larger than a cove but smaller than a gulf', 'the sound of a hound on the scent', 'small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking; also used by ancient Greeks to crown victors', 'a compartment on a ship between decks; often used as a hospital', 'a compartment in an aircraft used for some specific purpose', 'a small recess opening off a larger room', 'a horse of a moderate reddish-brown color'], 'Verb': ['utter in deep prolonged tones', 'bark with prolonged noises, of dogs'], 'Adjective': ['(used of animals especially a horse']}
+
+
+
+Word: Biopsy = living tissue seperated from body of examination
+{'Noun': ['examination of tissues or liquids from the living body to determine the existence or cause of a disease']}
+
+
+
+Word: Blazing = very hot
+{'Noun': ['a strong flame that burns brightly'], 'Verb': ['shine brightly and intensively', 'shoot rapidly and repeatedly', 'burn brightly and intensely', 'move rapidly and as if blazing', 'indicate by marking trees with blazes'], 'Adjective': ['shining intensely', 'without any attempt at concealment; completely obvious']}
+
+
+
+Word: Blunt = speaking truth without fear or favoured
+{'Verb': ['make less intense', 'make numb or insensitive', 'make dull or blunt', 'make less sharp', 'make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation'], 'Adjective': ['having a broad or rounded end', 'used of a knife or other blade; not sharp', 'characterized by directness in manner or speech; without subtlety or evasion', 'devoid of any qualifications or disguise or adornment']}
+
+
+
+Word: Brambles = black berry bushes
+{'Noun': ['any of various rough thorny shrubs or vines']}
+
+
+
+Word: Brim = an upper layer of cup or a glass
+{'Noun': ['the top edge of a vessel or other container', 'a circular projection that sticks outward from the crown of a hat'], 'Verb': ['be completely full', 'fill as much as possible']}
+
+
+
+Word: Brink = bank of river
+{'Noun': ['a region marking a boundary', 'the edge of a steep place', 'the limit beyond which something happens or changes']}
+
+
+
+Word: Broadcast = transmit by radio or television
+{'Noun': ['message that is transmitted by radio or television', 'a radio or television show'], 'Verb': ['broadcast over the airwaves, as in radio or television', 'sow over a wide area, especially by hand', 'cause to become widely known']}
+
+
+
+Word: Bunch = group of something
+{'Noun': ['a grouping of a number of similar things', 'an informal body of friends', 'any collection in its entirety'], 'Verb': ['form into a bunch', 'gather or cause to gather into a cluster']}
+
+
+
+Word: Butcher = a person who cuts meat
+{'Noun': ['a retailer of meat', 'a brutal indiscriminate murderer', 'a person who slaughters or dresses meat for market', 'someone who makes mistakes because of incompetence'], 'Verb': ['kill (animals'], 'Adjective': ['used of men; markedly masculine in appearance or manner', '(of male or female homosexuals']}
+
+
+
+Word: Cackle = harsh laugh
+{'Noun': ['the sound made by a hen after laying an egg', 'noisy talk', "a loud laugh suggestive of a hen's cackle"], 'Verb': ['talk or utter in a cackling manner', 'squawk shrilly and loudly, characteristic of hens', 'emit a loud, unpleasant kind of laughing']}
+
+
+
+Word: Catamarans = a boat with two hulls joined together
+{'Noun': ['a boat with two parallel hulls held together by single deck']}
+
+
+
+Word: Cave = alarge hole in the side of a mountain
+{'Noun': ['a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea'], 'Verb': ['hollow out as if making a cave or opening', 'explore natural caves']}
+
+
+
+Word: Cell = the smallest unit of living matter that can exist on its own
+{'Noun': ['any small compartment', '(biology', 'as in monads', 'a device that delivers an electric current as the result of a chemical reaction', 'a small unit serving as part of or as the nucleus of a larger political movement', 'a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver', 'small room in which a monk or nun lives', 'a room where a prisoner is kept']}
+
+
+
+Word: Chapel = a room used for christian worship in a school or large private house
+{'Noun': ['a place of worship that has its own altar', 'a service conducted in a place of worship that has its own altar']}
+
+
+
+Word: Chemist = a person who is qualified to prepare and sell medicine
+{'Noun': ['a scientist who specializes in chemistry', 'a health professional trained in the art of preparing and dispensing drugs']}
+
+
+
+Word: Cherry = happy and thinking positively
+{'Noun': ['wood of any of various cherry trees especially the black cherry', 'any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood', 'a red fruit with a single hard stone', 'a red the color of ripe cherries'], 'Adjective': ['of a color at the end of the color spectrum (next to orange']}
+
+
+
+Word: Clamber = climb
+{'Noun': ['an awkward climb'], 'Verb': ['climb awkwardly, as if by scrambling']}
+
+
+
+Word: Clan = a group of one race people
+{'Noun': ['group of people related by blood or marriage']}
+
+
+
+Word: Cobalt = shining blue
+{'Noun': ['a hard ferromagnetic silver-white bivalent or trivalent metallic element; a trace element in plant and animal nutrition']}
+
+
+
+Word: Coffin = a long narroe box in which dead body is burried
+{'Noun': ['box in which a corpse is buried or cremated'], 'Verb': ['place into a coffin']}
+
+
+
+Word: Colleague = a co-worker
+{'Noun': ['an associate that one works with', "a person who is member of one's class or profession"]}
+
+
+
+Word: Comets = a celestial object
+{'Noun': ['(astronomy']}
+
+
+
+Word: Competed = take part in a contest
+{'Verb': ['compete for something; engage in a contest; measure oneself against others']}
+
+
+
+Word: Confess = to admit that one has some things wrong
+{'Verb': ['confess to a punishable or reprehensible deed, usually under pressure', 'admit (to a wrongdoing', 'confess to God in the presence of a priest, as in the Catholic faith']}
+
+
+
+Word: Confidence = being sure
+{'Noun': ['freedom from doubt; belief in yourself and your abilities', 'a feeling of trust (in someone or something', 'a state of confident hopefulness that events will be favorable', 'a trustful relationship', 'a secret that is confided or entrusted to another']}
+
+
+
+Word: Conservation = protection of nature environment
+{'Noun': ['an occurrence of improvement by virtue of preventing loss or injury or other change', 'the preservation and careful management of the environment and of natural resources', '(physics']}
+
+
+
+Word: Context = the situation around an idea or an event
+{'Noun': ['discourse that surrounds a language unit and helps to determine its interpretation', 'the set of facts or circumstances that surround a situation or event']}
+
+
+
+Word: Continued = did not stop
+{'Verb': ['continue a certain state, condition, or activity', 'continue talking', 'keep or maintain in unaltered condition; cause to remain or last', 'move ahead; travel onward in time or space', 'allow to remain in a place or position or maintain a property or feature', 'do something repeatedly and showing no intention to stop', 'continue after an interruption', 'continue in a place, position, or situation', 'span an interval of distance, space or time', 'exist over a prolonged period of time'], 'Adjective': ['without stop or interruption']}
+
+
+
+Word: Core = deepest layer of the earth
+{'Noun': ['a small group of indispensable persons or things', 'the center of an object', 'the central part of the Earth', 'the choicest or most essential or most vital part of some idea or experience', 'a cylindrical sample of soil or rock obtained with a hollow drill', 'an organization founded by James Leonard Farmer in 1942 to work for racial equality', 'the central meaning or theme of a speech or literary work', '(computer science', 'the chamber of a nuclear reactor containing the fissile material where the reaction takes place', 'a bar of magnetic material (as soft iron'], 'Verb': ['remove the core or center from']}
+
+
+
+Word: Cosy = giving feeling wamth and relaxation
+{'Noun': ['a padded cloth covering to keep a teapot warm'], 'Adjective': ['enjoying or affording comforting warmth and shelter especially in a small space']}
+
+
+
+Word: Craning = to lean or stretch over something to see better
+{'Verb': ['stretch (the neck']}
+
+
+
+Word: Crestfallen = feeling disappointed
+{'Adjective': ['brought low in spirit']}
+
+
+
+Word: Crimson = deep, slightly bluish red color
+{'Noun': ['a deep and vivid red color'], 'Verb': ['turn red, as if in embarrassment or shame'], 'Adjective': ['of a color at the end of the color spectrum (next to orange', 'characterized by violence or bloodshed', '(especially of the face', 'or crimson']}
+
+
+
+Word: Crinkle = covers with many little lines
+{'Noun': ['a slight depression or fold in the smoothness of a surface'], 'Verb': ["make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in; `crisp' is archaic", 'become wrinkled or crumpled or creased']}
+
+
+
+Word: Croaky = deep and rough voice like frong's
+{'Adjective': ['like the sounds of frogs and crows']}
+
+
+
+Word: Crowl = slither, creep
+None
+
+
+
+Word: Cycle = always repeat in same order
+{'Noun': ['an interval during which a recurring sequence of events occurs', 'a series of poems or songs on the same theme', 'a periodically repeated sequence of events', 'the unit of frequency; one hertz has a periodic interval of one second (named for Heinrich Rudolph Hertz', 'a single complete execution of a periodically repeated phenomenon', 'a wheeled vehicle that has two wheels and is moved by foot pedals'], 'Verb': ['cause to go through a recurring sequence', 'pass through a cycle', 'ride a motorcycle', 'ride a bicycle', 'recur in repeating sequences']}
+
+
+
+Word: Dampen = make slightly wet
+{'Verb': ['suppress or constrain so as to lessen in intensity', 'make moist', 'deaden (a sound or noise', 'reduce the amplitude (of oscillations or waves', 'make vague or obscure or make (an image', 'check; keep in check (a fire', 'lessen in force or effect']}
+
+
+
+Word: Data = information
+{'Noun': ['a collection of facts from which conclusions may be drawn', 'an item of factual information derived from measurement or research']}
+
+
+
+Word: Defend = protect from attack
+{'Verb': ['argue or speak in defense of', 'be on the defensive; act against an attack', 'protect against a challenge or attack', 'fight against or resist strongly', 'protect or fight for as a champion', 'be the defense counsel for someone in a trial', 'state or assert']}
+
+
+
+Word: Defiance = disobedience or open resistance
+{'Noun': ['intentionally contemptuous behavior or attitude', 'a hostile challenge', 'a defiant act']}
+
+
+
+Word: Deject = depress
+{'Verb': ["lower someone's spirits; make downhearted"]}
+
+
+
+Word: Democracy = government formed by people
+{'Noun': ['the political orientation of those who favor government by the people or by their elected representatives', 'a political system in which the supreme power lies in a body of citizens who can elect people to represent them', 'the doctrine that the numerical majority of an organized group can make decisions binding on the whole group']}
+
+
+
+Word: Derive = obtain
+{'Verb': ['reason by deduction; establish by deduction', 'obtain', 'come from', 'develop or evolve from a latent or potential state', 'come from; be connected by a relationship of blood, for example']}
+
+
+
+Word: Desert = dry and hot area
+{'Noun': ['arid land with little or no vegetation', '(usually plural'], 'Verb': ['leave someone who needs or counts on you; leave in the lurch', 'desert (a cause, a country or an army', 'leave behind']}
+
+
+
+Word: Despire = hopelessness
+None
+
+
+
+Word: Devour = eat hungrily or quickly
+{'Verb': ['destroy completely', 'enjoy avidly', 'eat up completely, as with great appetite', 'eat greedily']}
+
+
+
+Word: Diamond = shyning precious stone
+{'Noun': ['a transparent piece of diamond that has been cut and polished and is valued as a precious gem', 'very hard native crystalline carbon valued as a gem', 'a parallelogram with four equal sides; an oblique-angled equilateral parallelogram', 'a playing card in the minor suit that has one or more red rhombuses on it', 'the area of a baseball field that is enclosed by 3 bases and home plate', 'the baseball playing field']}
+
+
+
+Word: Discontent = lack of satisfaction
+{'Noun': ['a longing for something better than the present situation'], 'Verb': ['make dissatisfied'], 'Adjective': ['showing or experiencing dissatisfaction or restless longing']}
+
+
+
+Word: Discrimination = unjust treatment of a person based on caste etc..
+{'Noun': ['unfair treatment of a person or group on the basis of prejudice', 'the cognitive process whereby two or more stimuli are distinguished']}
+
+
+
+Word: Dismayed = lost courage, shocked
+{'Verb': ["lower someone's spirits; make downhearted", 'fill with apprehension or alarm; cause to be unpleasantly surprised'], 'Adjective': ['struck with fear, dread, or consternation']}
+
+
+
+Word: Distress = exterme enxiety worrow or difficult
+{'Noun': ['psychological suffering', 'a state of adversity (danger or affliction or need', 'extreme physical pain', 'the seizure and holding of property as security for payment of a debt or satisfaction of a claim'], 'Verb': ['bring into difficulties or distress, especially financial hardship', 'cause mental pain to']}
+
+
+
+Word: Ditches = water canals in field
+{'Noun': ['a long narrow excavation in the earth', 'any small natural waterway'], 'Verb': ['forsake', 'throw away', 'sever all ties with, usually unceremoniously or irresponsibly', 'make an emergency landing on water', 'crash or crash-land', 'cut a trench in, as for drainage']}
+
+
+
+Word: Dormant = inactive
+{'Adjective': ['in a condition of biological rest or suspended animation', '(of e.g. volcanos', 'lying with head on paws as if sleeping', 'inactive but capable of becoming active']}
+
+
+
+Word: Drift = be carried by current of water or air
+{'Noun': ['a force that moves something along', 'the gradual departure from an intended course due to external influences (as a ship or plane', 'a process of linguistic change over a period of time', 'a large mass of material that is heaped up by the wind or by water currents', 'a general tendency to change (as of opinion', 'the pervading meaning or tenor', 'a horizontal (or nearly horizontal'], 'Verb': ['be in motion due to some air or water current', 'wander from a direct course or at random', 'move about aimlessly or without any destination, often in search of food or employment', 'vary or move from a fixed point or course', 'live unhurriedly, irresponsibly, or freely', 'move in an unhurried fashion', 'cause to be carried by a current', 'drive slowly and far afield for grazing', 'be subject to fluctuation', 'be piled up in banks or heaps by the force of wind or a current']}
+
+
+
+Word: Droplet = a small drop of liquid
+{'Noun': ['a tiny drop']}
+
+
+
+Word: Ebony = dark brown or dark black
+{'Noun': ['a very dark black', 'hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys', 'tropical tree of southern Asia having hard dark-colored heartwood used in cabinetwork'], 'Adjective': ['of a very dark black']}
+
+
+
+Word: Eminent = great
+{'Adjective': ['standing above others in quality or position', 'of imposing height; especially standing out above others']}
+
+
+
+Word: Entwined = curled or twisted around
+{'Verb': ['tie or link together', 'spin, wind, or twist together']}
+
+
+
+Word: Envied = felt jelous of someone
+{'Verb': ['feel envious towards; admire enviously', "be envious of; set one's heart on"]}
+
+
+
+Word: Environment = th enature surrounding or world in which plant animals and human live
+{'Noun': ['the totality of surrounding conditions', 'the area in which something exists or lives']}
+
+
+
+Word: Estatic = extremely happy
+None
+
+
+
+Word: Events = important happennings
+{'Noun': ['something that happens at a given place and time', 'a special set of circumstances', 'a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory', 'a phenomenon that follows and is caused by some previous phenomenon']}
+
+
+
+Word: Examined = looked at something carefully
+{'Verb': ['consider in detail and subject to an analysis in order to discover essential features or meaning', 'observe, check out, and look over carefully or inspect', 'question or examine thoroughly and closely', 'question closely', 'put to the test, as for its quality, or give experimental use to']}
+
+
+
+Word: Exist = to be present in a place
+{'Verb': ['have an existence, be extant', 'support oneself']}
+
+
+
+Word: Finite = limited in size
+{'Adjective': ['bounded or limited in magnitude or spatial or temporal extent', '(of verbs', 'usually']}
+
+
+
+Word: Fools = a fool is a silly person
+{'Noun': ['a person who lacks good judgment', 'a person who is gullible and easy to take advantage of', 'a professional clown employed to entertain a king or nobleman in the Middle Ages'], 'Verb': ['make a fool or dupe of', 'spend frivolously and unwisely', 'fool or hoax', 'indulge in horseplay']}
+
+
+
+Word: Fowl = a bird belonging to one of two biological orders
+{'Noun': ['a domesticated gallinaceous bird thought to be descended from the red jungle fowl', 'the flesh of a bird or fowl (wild or domestic'], 'Verb': ['hunt fowl', 'hunt fowl in the forest']}
+
+
+
+Word: Fragile = easily damaged or broken
+{'Adjective': ['easily broken or damaged or destroyed', 'vulnerably delicate', 'lacking substance or significance']}
+
+
+
+Word: Freezing = very cold
+{'Noun': ['the withdrawal of heat to change something from a liquid to a solid'], 'Verb': ['stop moving or become immobilized', 'change to ice', 'be cold', 'cause to freeze', 'stop a process or a habit by imposing a freeze on it', 'be very cold, below the freezing point', 'change from a liquid to a solid when cold', 'prohibit the conversion or use of (assets', 'anesthetize by cold', 'suddenly behave coldly and formally']}
+
+
+
+Word: Fret = worry
+{'Noun': ['agitation resulting from active worry', 'a spot that has been worn away by abrasion or erosion', 'an ornamental pattern consisting of repeated vertical and horizontal lines (often in relief', 'a small bar of metal across the fingerboard of a musical instrument; when the string is stopped by a finger at the metal bar it will produce a note of the desired pitch'], 'Verb': ['worry unnecessarily or excessively', 'be agitated or irritated', 'provide (a musical instrument', 'become or make sore by or as if by rubbing', 'cause annoyance in', 'gnaw into; make resentful or angry', 'carve a pattern into', 'decorate with an interlaced design', 'be too tight; rub or press', 'cause friction', 'remove soil or rock', 'wear away or erode']}
+
+
+
+Word: Function = to do what something should do
+{'Noun': ['(mathematics', 'the domain of the function', 'the range of the function', 'what something is used for', 'the actions and activities assigned to or required or expected of a person or group', 'a relation such that one thing is dependent on another', 'a formal or official social gathering or ceremony', 'a vaguely specified social event', 'a set sequence of steps, part of larger computer program'], 'Verb': ['perform as expected when applied', 'serve a purpose, role, or function', 'perform duties attached to a particular office or place or function']}
+
+
+
+Word: Gana = a group has many members
+None
+
+
+
+Word: Gay = light hearted or care free
+{'Noun': ['someone who is sexually attracted to persons of the same sex'], 'Adjective': ['bright and pleasant; promoting a feeling of cheer', 'full of or showing high-spirited merriment', 'given to social pleasures often including dissipation', 'brightly colored and showy', 'offering fun and gaiety', 'or festal', 'homosexual or arousing homosexual desires']}
+
+
+
+Word: Generous = kind
+{'Adjective': ['willing to give and share unstintingly', 'not petty in character and mind', 'more than is usual or necessary']}
+
+
+
+Word: Geoid = earth like shape
+None
+
+
+
+Word: Glee = great delight or happiness
+{'Noun': ['great merriment', 'malicious satisfaction']}
+
+
+
+Word: Glee = great joy
+{'Noun': ['great merriment', 'malicious satisfaction']}
+
+
+
+Word: Glee = happiness
+{'Noun': ['great merriment', 'malicious satisfaction']}
+
+
+
+Word: Glimmering = glowing
+{'Noun': ['a slight suggestion or vague understanding'], 'Verb': ['shine brightly, like a star or a light']}
+
+
+
+Word: Grapple = engage in close fight
+{'Noun': ['a tool consisting of several hooks for grasping and holding; often thrown with a rope', 'a dredging bucket with hinges like the shell of a clam', 'the act of engaging in close hand-to-hand combat'], 'Verb': ['succeed in doing, achieving, or producing (something', 'to grip or seize, as in a wrestling match']}
+
+
+
+Word: Grasp = to catch hold of something
+{'Noun': ['understanding of the nature or meaning or quality or magnitude of something', 'the limit of capability', 'an intellectual hold or understanding', 'the act of grasping'], 'Verb': ['hold firmly', 'get the meaning of something']}
+
+
+
+Word: Greeted = wished
+{'Verb': ['express greetings upon meeting someone', 'send greetings to', 'react to in a certain way', 'be perceived by']}
+
+
+
+Word: Grmble = complain about someone or something
+None
+
+
+
+Word: Gust = sudden strong rush of wind
+{'Noun': ['a strong current of air']}
+
+
+
+Word: Habitat = natural home for animal
+{'Noun': ['the type of environment in which an organism or group normally lives or occurs']}
+
+
+
+Word: Handed = gave
+{'Verb': ['place into the hands or custody of', 'guide or conduct or usher somewhere'], 'Adjective': ['having or involving the use of hands']}
+
+
+
+Word: Harmony = arrangement of sounds
+{'Noun': ['compatibility in opinion and action', 'the structure of music with respect to the composition and progression of chords', 'a harmonious state of things in general and of their properties (as of colors and sounds', 'agreement of opinions', 'an agreeable sound property']}
+
+
+
+Word: Hasten = hurry
+{'Verb': ['act or move at high speed', 'move hurridly', 'speed up the progress of; facilitate', 'cause to occur rapidly']}
+
+
+
+Word: Hasten = hurry
+{'Verb': ['act or move at high speed', 'move hurridly', 'speed up the progress of; facilitate', 'cause to occur rapidly']}
+
+
+
+Word: Hatch = to come out of its egg
+{'Noun': ['the production of young from an egg', 'shading consisting of multiple crossing lines', 'a sloping rear car door that is lifted to open', 'a movable barrier covering a hatchway'], 'Verb': ['emerge from the eggs', 'devise or invent', 'inlay with narrow strips or lines of a different substance such as gold or silver, for the purpose of decorating', 'draw, cut, or engrave lines, usually parallel, on metal, wood, or paper', 'sit on (eggs']}
+
+
+
+Word: Hatchets = axe, clever
+{'Noun': ['weapon consisting of a fighting ax; used by North American Indians', 'a small ax with a short handle used with one hand (usually to chop wood']}
+
+
+
+Word: Hazel = greenish brown or reddish stone
+{'Noun': ['Australian tree grown especially for ornament and its fine-grained wood and bearing edible nuts', 'the fine-grained wood of a hazelnut tree (genus Corylus', 'Australian genus Pomaderris', 'any of several shrubs or small trees of the genus Corylus bearing edible nuts enclosed in a leafy husk', "a shade of brown that is yellowish or reddish; it is a greenish shade of brown when used to describe the color of someone's eyes"], 'Adjective': ['of a light brown or yellowish brown color']}
+
+
+
+Word: Hebitat = a natural home or environment of an animal, plant or other organism
+None
+
+
+
+Word: Hectic = full of activity or very busy
+{'Adjective': ['marked by intense agitation or emotion']}
+
+
+
+Word: Hedges = rows of bushes
+{'Noun': ['a fence formed by a row of closely planted shrubs or bushes', 'any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change', 'an intentionally noncommittal or ambiguous statement'], 'Verb': ['avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues', 'hinder or restrict with or as if with a hedge', 'enclose or bound in with or as it with a hedge or hedges', 'minimize loss or risk']}
+
+
+
+Word: Hesitated = pause in indecision before saying or doing something
+{'Verb': ['pause or hold back in uncertainty or unwillingness', 'interrupt temporarily an activity before continuing']}
+
+
+
+Word: Histopathology = study of diseased tissue
+None
+
+
+
+Word: Hoisting = raising with the help of opes
+{'Verb': ['raise or haul up with or as if with mechanical help', 'move from one place to another by lifting']}
+
+
+
+Word: Host = a person who entertains audience
+{'Noun': ['a person who invites guests to a social event (such as a party in his or her own home', 'a vast multitude', 'an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association', 'a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers', 'archaic terms for army', 'any organization that provides resources and facilities for a function or event', '(medicine', 'the owner or manager of an inn', 'a technical name for the bread used in the service of Mass or Holy Communion', '(computer science'], 'Verb': ['be the host of or for']}
+
+
+
+Word: Hover = remain in one place in the air
+{'Verb': ['be undecided about something; waver between conflicting positions or courses of action', 'move to and fro', 'hang in the air; fly or be suspended above', 'be suspended in the air, as if in defiance of gravity', 'hang over, as of something threatening, dark, or menacing']}
+
+
+
+Word: Hypotension = low level blood pressure
+{'Noun': ['abnormally low blood pressure']}
+
+
+
+Word: Idle = doing nothing
+{'Noun': ['the state of an engine or other mechanism that is idling'], 'Verb': ['run disconnected or idle', 'be idle; exist in a changeless situation'], 'Adjective': ['not in action or at work', 'without a basis in reason or fact', 'not in active use', 'silly or trivial', 'lacking a sense of restraint or responsibility', 'not yielding a return', 'not having a job']}
+
+
+
+Word: Indeginous = native made
+None
+
+
+
+Word: Indicate = to show sign
+{'Verb': ['be a signal for or a symptom of', 'indicate a place, direction, person, or thing; either spatially or figuratively', 'to state or express briefly', 'give evidence of', 'suggest the necessity of an intervention; in medicine']}
+
+
+
+Word: Inscriptions = message carved on rock surfaced
+{'Noun': ['letters inscribed (especially words engraved or carved', 'a short message (as in a book or musical work or on a photograph', 'the activity of inscribing (especially carving or engraving']}
+
+
+
+Word: Instant camera = a camera that can take a picture
+None
+
+
+
+Word: Intact = undamaged
+{'Adjective': ['constituting the undiminished entirety; lacking nothing essential especially not damaged', '(of a woman', '(used of domestic animals', 'undamaged in any way']}
+
+
+
+Word: Involving = including
+{'Verb': ['connect closely and often incriminatingly', 'engage as a participant', 'have as a necessary feature', 'require as useful, just, or proper', 'contain as a part', 'occupy or engage the interest of', 'make complex or intricate or complicated']}
+
+
+
+Word: Inward eye = imagination or the mind's eye
+None
+
+
+
+Word: Jade = green stone in the shape of pebble
+{'Noun': ['a semiprecious gemstone that takes a high polish; is usually green but sometimes whitish; consists of jadeite or nephrite', 'a woman adulterer', 'a light green color varying from bluish green to yellowish green', 'an old or over-worked horse'], 'Verb': ['lose interest or become bored with something or somebody', 'exhaust or get tired through overuse or great strain or stress'], 'Adjective': ['of something having the color of jade; especially varying from bluish green to yellowish green']}
+
+
+
+Word: Jealous = feeling rival towards a person
+{'Adjective': ["showing extreme cupidity; painfully desirous of another's advantages", 'suspicious or unduly suspicious or fearful of being displaced by a rival']}
+
+
+
+Word: Jostled = pushed roughly somebody in a crowd
+{'Verb': ["make one's way by jostling, pushing, or shoving", 'come into rough contact with while moving']}
+
+
+
+Word: Keep me down = make me feel defeated
+None
+
+
+
+Word: Kiosk = touch screen monitor
+{'Noun': ['small area set off by walls for special use']}
+
+
+
+Word: Labyrinth = a maze,  a cplicated irregular network of passages or paths
+{'Noun': ['complex system of paths or tunnels in which it is easy to get lost', 'a complex system of interconnecting cavities; concerned with hearing and equilibrium']}
+
+
+
+Word: Leucocytopenia = low level of white blood cells
+None
+
+
+
+Word: Leukemia = increased number of immature or abnormal leukocytes
+{'Noun': ['malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer']}
+
+
+
+Word: Literacy = ability to read and write
+{'Noun': ['the ability to read and write']}
+
+
+
+Word: Lure = attract
+{'Noun': ['qualities that attract by seeming to promise some kind of reward', 'anything that serves as an enticement', 'something used to lure fish or other animals into danger so they can be trapped or killed'], 'Verb': ['provoke someone to do something through (often false or exaggerated']}
+
+
+
+Word: Magma = liquid material lying under the earth surface
+{'Noun': ["molten rock in the earth's crust"]}
+
+
+
+Word: Mantle = Layer below the curst
+None
+
+
+
+Word: Maritime = connected with the sea, in relation to trade or navel maters
+{'Adjective': ['relating to or involving ships or shipping or navigation or seamen', 'bordering on or living or characteristic of those near the sea']}
+
+
+
+Word: Marvellous = very beautiful
+{'Adjective': ['extraordinarily good or great; used especially as intensifiers', 'being or having the character of a miracle', 'too improbable to admit of belief']}
+
+
+
+Word: Mates = meets or joins
+{'Noun': ['the officer below the master on a commercial ship', 'a fellow member of a team', 'the partner of an animal (especially a sexual partner', "a person's partner in marriage", 'an exact duplicate', 'one of a pair', 'South American holly; leaves used in making a drink like tea', 'informal term for a friend of the same sex', 'South American tea-like drink made from leaves of a South American holly called mate', "a chess move constituting an inescapable and indefensible attack on the opponent's king", 'a pair of people who live together'], 'Verb': ['engage in sexual intercourse', 'bring two objects, ideas, or people together', "place an opponent's king under an attack from which it cannot escape and thus ending the game"]}
+
+
+
+Word: Mayday = an internation radio distress used by ships and aircrafts
+{'Noun': ["an internationally recognized distress signal via radiotelephone (from the French m'aider"]}
+
+
+
+Word: Mayor = head of municipal corporation
+{'Noun': ['the head of a city government']}
+
+
+
+Word: Mentor = an experienced and trusted guide
+{'Noun': ['a wise and trusted guide and advisor'], 'Verb': ['serve as a teacher or trusted counselor']}
+
+
+
+Word: Meteroids = small rocky or metallic bodies in outer space
+None
+
+
+
+Word: Milky way = collective term of stars in the night sky
+None
+
+
+
+Word: Miserable = gloomy and sad
+{'Adjective': ['very unhappy; full of misery', 'deserving or inciting pity', 'of the most contemptible kind', 'of very poor quality or condition', 'characterized by physical misery', 'contemptibly small in amount']}
+
+
+
+Word: Miserable = very sad
+{'Adjective': ['very unhappy; full of misery', 'deserving or inciting pity', 'of the most contemptible kind', 'of very poor quality or condition', 'characterized by physical misery', 'contemptibly small in amount']}
+
+
+
+Word: Monarchy = a form of government with a monarch at the head
+{'Noun': ['an autocracy governed by a monarch who usually inherits the authority']}
+
+
+
+Word: Mortars and pestles = toold used to grind grains and plant products
+None
+
+
+
+Word: Muck = dirt or waste matter
+{'Noun': ['any thick, viscous matter', 'fecal matter of animals'], 'Verb': ['remove muck, clear away muck, as in a mine', 'spread manure, as for fertilization', 'soil with mud, muck, or mire']}
+
+
+
+Word: Mycology = study of fungi
+{'Noun': ['the branch of botany that studies fungi and fungus-caused diseases']}
+
+
+
+Word: Myology = study of muscles
+{'Noun': ['the branch of physiology that studies muscles']}
+
+
+
+Word: Neighbouring = nearby
+{'Verb': ['live or be located as a neighbor', 'be located near or adjacent to']}
+
+
+
+Word: Neurosurgen = a doctor performs operations on the neuro system especially on brain
+None
+
+
+
+Word: Nibble = to take small bytes of something especially food
+{'Noun': ['a small byte', 'gentle biting'], 'Verb': ['bite off very small pieces', 'bite gently', 'eat intermittently; take small bites of']}
+
+
+
+Word: Noble = Showing or having fine personal qualities
+{'Noun': ['a titled peer of the realm'], 'Adjective': ['impressive in appearance', 'of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times', 'having or showing or indicative of high or elevated character', 'inert especially toward oxygen']}
+
+
+
+Word: O'er = variant form of over, over, vallies
+{'Adverb': ['throughout a period of time']}
+
+
+
+Word: Obtain = to get
+{'Verb': ['come into possession of', 'receive a specified treatment (abstract', 'be valid, applicable, or true']}
+
+
+
+Word: Occupy = to fill or use a space
+{'Verb': ['keep busy with', 'live (in a certain place', 'occupy the whole of', 'be on the mind of', "march aggressively into another's territory by military force for the purposes of conquest and occupation", 'require (time or space', "consume all of one's attention or time", 'assume, as of positions or roles']}
+
+
+
+Word: Oppressed classes = people who are treated in an unjust way
+None
+
+
+
+Word: Paling = appearing less, fading away
+{'Noun': ['a fence made of upright pickets'], 'Verb': ['turn pale, as if in fear']}
+
+
+
+Word: Pangs = feeling of sorrow
+{'Noun': ['a sudden sharp feeling', 'a mental pain or distress', 'a sharp spasm of pain']}
+
+
+
+Word: Peered at = looked closefully of carefully at something
+None
+
+
+
+Word: Pensive = in deep thought
+{'Adjective': ['deeply or seriously thoughtful', 'showing pensive sadness']}
+
+
+
+Word: Perspective = a point of view
+{'Noun': ['a way of regarding situations or topics etc.', 'the appearance of things relative to one another as determined by their distance from the viewer']}
+
+
+
+Word: Plumped = pushed
+{'Verb': ['drop sharply', 'set (something or oneself', 'make fat or plump', 'give support (to']}
+
+
+
+Word: Polyuria = it is defined as frequent passage of large volume of urine
+{'Noun': ['renal disorder characterized by the production of large volumes of pale dilute urine; often associated with diabetes']}
+
+
+
+Word: Prowled = walked around quitely and carefully
+{'Verb': ['move about in or as if in a predatory manner', 'loiter about, with no apparent aim']}
+
+
+
+Word: Raft = flat wood placed on water bodies
+{'Noun': ['a flat float (usually made of logs or planks', 'a foundation (usually on soft ground'], 'Verb': ['transport on a raft', 'travel by raft in water', 'make into a raft']}
+
+
+
+Word: Rage = anger
+{'Noun': ['a feeling of intense anger', 'a state of extreme anger', 'something that is desired intensely', 'violent state of the elements', 'an interest followed with exaggerated zeal'], 'Verb': ['behave violently, as if in state of a great anger', 'be violent; as of fires and storms', 'feel intense anger']}
+
+
+
+Word: Rapid = quick
+{'Noun': ['a part of a river where the current is very fast'], 'Adjective': ['done or occurring in a brief period of time', 'characterized by speed; moving with or capable of moving with high speed']}
+
+
+
+Word: Realm = kingdom
+{'Noun': ['a domain in which something is dominant', 'the domain ruled by a king or queen', 'a knowledge domain that you are interested in or are communicating about']}
+
+
+
+Word: Reputed = famous
+{'Verb': ['look on as or consider']}
+
+
+
+Word: Revolt = take a violent action against establish goverment
+{'Noun': ['organized opposition to authority; a conflict in which one faction tries to wrest control from another'], 'Verb': ['make revolution', 'fill with distaste', 'cause aversion in; offend the moral sense of']}
+
+
+
+Word: Rills = small streams of water
+{'Noun': ['a small stream', 'a small channel (as one formed by soil erosion']}
+
+
+
+Word: Robbed to sleep = did not allow us to sleep
+None
+
+
+
+Word: Robust = Strong
+{'Adjective': ['sturdy and strong in form, constitution, or construction', 'marked by richness and fullness of flavor', 'strong enough to withstand or overcome intellectual challenges or adversity', 'rough and crude']}
+
+
+
+Word: Roost = a sleep
+{'Noun': ['a shelter with perches for fowl or other birds', 'a perch on which domestic fowl rest or sleep'], 'Verb': ['sit, as on a branch', 'settle down or stay, as if on a roost']}
+
+
+
+Word: Sangha = organization or association
+None
+
+
+
+Word: Satyagraha = act of non co-operation
+{'Noun': ['the form of nonviolent resistance initiated in India by Mahatma Gandhi in order to oppose British rule and to hasten political reforms']}
+
+
+
+Word: Searched = looked every where
+{'Verb': ['try to locate or discover, or try to establish the existence of', 'search or seek', 'inquire into', 'subject to a search']}
+
+
+
+Word: Silly = foolishness
+{'Noun': ['a word used for misbehaving children'], 'Adjective': ['ludicrous, foolish', 'lacking seriousness; given to frivolity', 'inspiring scornful pity', 'dazed from or as if from repeated blows']}
+
+
+
+Word: Slanting = slope in position
+{'Verb': ['lie obliquely', 'present with a bias', 'to incline or bend from a vertical position', 'heel over'], 'Adjective': ['having an oblique or slanted direction']}
+
+
+
+Word: Slender = thing and delicate
+{'Adjective': ['being of delicate or slender build', 'very narrow', 'having little width in proportion to the length or height', 'small in quantity']}
+
+
+
+Word: Slide away = move away
+None
+
+
+
+Word: Snag = an uexpected or hidden obstacle
+{'Noun': ['a sharp protuberance', 'a dead tree that is still standing, usually in an undisturbed forest', 'an opening made forcibly as by pulling apart', 'an unforeseen obstacle'], 'Verb': ['catch on a snag', 'get by acting quickly and smartly', 'hew jaggedly']}
+
+
+
+Word: Snapped = took a photo
+{'Verb': ['utter in an angry, sharp, or abrupt tone', 'separate or cause to separate abruptly', 'break suddenly and abruptly, as under tension', 'move or strike with a noise', 'close with a snapping motion', 'make a sharp sound', 'move with a snapping sound', 'to grasp hastily or eagerly', 'put in play with a snap', 'cause to make a snapping sound', "lose control of one's emotions", 'bring the jaws together', 'record on photographic film']}
+
+
+
+Word: Snarled = say something in angry, bad temper voice
+{'Verb': ['utter in an angry, sharp, or abrupt tone', 'make a snarling noise or move with a snarling noise', 'twist together or entwine into a confusing mass', 'make more complicated or confused through entanglements'], 'Adjective': ['tangled in knots or snarls']}
+
+
+
+Word: Soaring = flying high in the sky
+{'Noun': ['the activity of flying a glider'], 'Verb': ['rise rapidly', 'fly by means of a hang glider', 'fly upwards or high in the sky', 'go or move upward', 'fly a plane without an engine'], 'Adjective': ['ascending to a level markedly higher than the usual', 'of imposing height; especially standing out above others']}
+
+
+
+Word: Solemn = serious
+{'Adjective': ['dignified and somber in manner or character and committed to keeping promises', 'characterized by a firm and humorless belief in the validity of your opinions']}
+
+
+
+Word: Solitude = confinement or provacy
+{'Noun': ['a state of social isolation', 'the state or situation of being alone', 'a solitary place']}
+
+
+
+Word: Spark = flashing light
+{'Noun': ['a momentary flash of light', 'merriment expressed by a brightness or gleam or animation of countenance', 'electrical conduction through a gas in an applied electric field', 'a small but noticeable trace of some quality that might become stronger', 'Scottish writer of satirical novels (born in 1918', 'a small fragment of a burning substance thrown out by burning material or by friction'], 'Verb': ['put in motion or move to act', 'emit or produce sparks']}
+
+
+
+Word: Spotted = happend to see
+{'Verb': ['catch sight of', 'detect with the senses', 'mar or impair with a flaw', 'make a spot or mark onto', 'become spotted', 'mark with a spot or spots so as to allow easy recognition'], 'Adjective': ['having spots or patches (small areas of contrasting color or texture']}
+
+
+
+Word: Spread = to cover an area
+{'Noun': ['process or result of distributing or extending over a wide expanse of space', 'a conspicuous disparity or difference as between two figures', 'farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle', 'a haphazard distribution in all directions', 'a tasty mixture to be spread on bread or crackers or used in preparing other dishes', 'a meal that is well prepared and greatly enjoyed', 'two facing pages of a book or other publication', "the expansion of a person's girth (especially at middle age", 'decorative cover for a bed', 'act of extending over a wider scope or expanse of space or time'], 'Verb': ['distribute or disperse widely', 'become distributed or widespread', 'spread across or over', 'spread out or open from a closed or folded state', 'cause to become widely known', 'become widely known and passed on', 'strew or distribute over an area', 'move outward', 'cover by spreading something over', 'distribute over a surface in a layer'], 'Adjective': ['distributed or spread over a considerable extent', 'prepared or arranged for a meal; especially having food set out', 'fully extended in width']}
+
+
+
+Word: Sprightly = full of energy
+{'Adjective': ['full of spirit and vitality']}
+
+
+
+Word: Stew = meat and vegetable cooked slowly in liquid
+{'Noun': ['agitation resulting from active worry', 'food prepared by stewing especially meat or fish with vegetables'], 'Verb': ['be in a huff; be silent or sullen', 'bear a grudge; harbor ill feelings', 'cook slowly and for a long time in liquid']}
+
+
+
+Word: Strange = unusual
+{'Adjective': ['being definitely out of the ordinary and unexpected; slightly odd or even a bit weird', 'not known before', 'relating to or originating in or characteristic of another place or part of the world']}
+
+
+
+Word: Stream = small river
+{'Noun': ['a natural body of running water flowing on or under the earth', 'dominant course (suggestive of running water', 'the act of flowing or streaming; continuous progression', 'something that resembles a flowing stream in moving continuously', 'a steady flow of a fluid (usually from natural causes'], 'Verb': ['to extend, wave or float outward, as if in the wind', 'exude profusely', 'move in large numbers', 'rain heavily', 'flow freely and abundantly']}
+
+
+
+Word: Stren = very stinct
+None
+
+
+
+Word: Suited = right or appropriated
+{'Verb': ['be agreeable or acceptable to', 'be agreeable or acceptable', 'accord or comport with', 'enhance the appearance of'], 'Adjective': ['meant or adapted for an occasion or use', 'or fit', 'or fit', 'outfitted or supplied with clothing']}
+
+
+
+Word: Summon = invite or call
+{'Verb': ['call in an official matter, such as to attend court', 'ask to come', 'cause to become available for use, either literally or figuratively', 'gather or bring together', 'make ready for action or use']}
+
+
+
+Word: Surrounding = everything that near or around
+{'Verb': ['extend on all sides of simultaneously; encircle', 'envelop completely', 'surround so as to force to give up', 'surround with a wall in order to fortify'], 'Adjective': ['closely encircling']}
+
+
+
+Word: Thrust = push something quickly
+{'Noun': ['the force used in pushing', 'a strong blow with a knife or other sharp pointed instrument', 'the act of applying force to propel something', 'verbal criticism', 'a sharp hand gesture (resembling a blow'], 'Verb': ['push forcefully', 'press or force', 'make a thrusting forward movement', 'impose urgently, importunately, or inexorably', 'penetrate or cut through with a sharp instrument', 'force (molten rock', 'push upward', 'place or put with great energy']}
+
+
+
+Word: Tiny = very small
+{'Adjective': ['very small']}
+
+
+
+Word: Trader = who sells and buys
+{'Noun': ['someone who purchases and maintains an inventory of goods to be sold']}
+
+
+
+Word: Trampled = crushed
+{'Verb': ['tread or stomp heavily or roughly', 'injure by trampling or as if by trampling', 'walk on and flatten']}
+
+
+
+Word: Trap = homeless
+{'Noun': ['a device in which something (usually an animal', 'drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas', 'something (often something deceptively attractive', 'a device to hurl clay pigeons into the air for trapshooters', 'the act of concealing yourself and lying in wait to attack by surprise', 'informal terms for the mouth', 'a light two-wheeled carriage', 'a hazard on a golf course'], 'Verb': ['place in a confining or embarrassing position', 'catch in or as if in a trap', 'hold or catch as if in a trap', 'to hold fast or prevent from moving']}
+
+
+
+Word: Traveller = a person making a trip
+{'Noun': ['a person who changes location']}
+
+
+
+Word: Tread = walking in a spesific way
+{'Noun': ['a step in walking or running', 'the grooved surface of a pneumatic tire', 'the part (as of a wheel or shoe', 'structural member consisting of the horizontal part of a stair or step'], 'Verb': ['put down or press the foot, place the foot', 'tread or stomp heavily or roughly', 'crush as if by treading on', "brace (an archer's bow", 'apply (the tread', 'mate with']}
+
+
+
+Word: Trend = the way something change
+{'Noun': ['a general direction in which something tends to move', 'general line of orientation', 'a general tendency to change (as of opinion', 'the popular taste at a given time'], 'Verb': ['turn sharply; change direction abruptly']}
+
+
+
+Word: Trip on = to fall
+None
+
+
+
+Word: Trodden = trodden path means, a path that is frequently used by walk
+{'Verb': ['put down or press the foot, place the foot', 'tread or stomp heavily or roughly', 'crush as if by treading on', "brace (an archer's bow", 'apply (the tread', 'mate with']}
+
+
+
+Word: Twinkle = very quickly
+{'Noun': ['a rapid change in brightness; a brief spark or flash', 'merriment expressed by a brightness or gleam or animation of countenance'], 'Verb': ['gleam or glow intermittently', 'emit or reflect light in a flickering manner']}
+
+
+
+Word: Unease = discontent
+{'Noun': ['physical discomfort (as mild sickness or depression', 'the trait of seeming ill at ease']}
+
+
+
+Word: Unique = something very special
+{'Adjective': ['radically distinctive and without equal', "(followed by `to'", 'the single one of its kind', 'highly unusual or rare but not the single instance']}
+
+
+
+Word: Unstrung = remove from a string
+{'Verb': ['remove the strings from'], 'Adjective': ['emotionally upset']}
+
+
+
+Word: Upset = unhappy
+{'Noun': ['an unhappy and worried mental state', 'the act of disturbing the mind or body', 'a physical condition in which there is a disturbance of normal functioning', 'a tool used to thicken or spread metal (the end of a bar or a rivet etc.', 'the act of upsetting something', 'an improbable and unexpected victory'], 'Verb': ['disturb the balance or stability of', "cause to lose one's composure", 'move deeply', 'cause to overturn from an upright or normal position', 'form metals with a swage', 'defeat suddenly and unexpectedly'], 'Adjective': ['afflicted with or marked by anxious uneasiness or trouble or grief', 'thrown into a state of disarray or confusion', 'used of an unexpected defeat of a team favored to win', 'mildly physically distressed', 'having been turned so that the bottom is no longer the bottom']}
+
+
+
+Word: Vacant = boared and with an empty mind
+{'Adjective': ['void of intelligence or thought', 'without an occupant or incumbent']}
+
+
+
+Word: Vendor = a person who sells things usually on streets
+{'Noun': ['someone who promotes or exchanges goods or services for money']}
+
+
